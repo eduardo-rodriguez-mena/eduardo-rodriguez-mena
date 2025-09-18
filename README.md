@@ -84,8 +84,6 @@ Con más de 20 años de experiencia diseñando, asegurando y operando infraestru
 
 ## 📊 GitHub Stats
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-rodriguez-mena&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-rodriguez-mena&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
